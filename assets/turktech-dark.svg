@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-label="TürkTech Bridge">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+<rect x="1" y="1" width="578" height="248" rx="14" fill="#0B1220" stroke="#1E2A44"/>
+<rect x="1" y="1" width="578" height="4" rx="2" fill="url(#g)"/>
+<rect x="28" y="30" width="48" height="48" rx="12" fill="#14223A"/>
+<g transform="translate(40 42)" fill="none" stroke="url(#g)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM5 5l4.5 4.5M19 5l-4.5 4.5M5 19l4.5-4.5M19 19l-4.5-4.5M3.5 3.5h3v3h-3zM17.5 3.5h3v3h-3zM3.5 17.5h3v3h-3zM17.5 17.5h3v3h-3z"/></g>
+<text x="92" y="52" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#E6EDF7">TürkTech Bridge</text>
+<text x="92" y="74" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">Kadimoff/Turktech</text>
+<text x="28" y="116" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="15" fill="#8A9BB8">AZ–TR technology-transfer platform: tech catalogue, industry</text>
+<text x="28" y="138" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="15" fill="#8A9BB8">calls, rubric evaluation, explainable matching engine and</text>
+<text x="28" y="160" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="15" fill="#8A9BB8">incubation tracking. 6 roles, 3 languages.</text>
+<rect x="28" y="200" width="67" height="26" rx="13" fill="#14223A"/>
+<text x="62" y="218" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#9FB3D1">Node.js</text>
+<rect x="103.19999999999999" y="200" width="60" height="26" rx="13" fill="#14223A"/>
+<text x="133" y="218" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#9FB3D1">SQLite</text>
+<rect x="170.79999999999998" y="200" width="90" height="26" rx="13" fill="#14223A"/>
+<text x="216" y="218" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#9FB3D1">Vanilla JS</text>
+<rect x="268.79999999999995" y="200" width="75" height="26" rx="13" fill="#14223A"/>
+<text x="306" y="218" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#9FB3D1">Tailwind</text>
+<rect x="351.59999999999997" y="200" width="60" height="26" rx="13" fill="#14223A"/>
+<text x="381" y="218" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#9FB3D1">Docker</text>
+<text x="552" y="52" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#2DD4BF">view repo →</text>
+</svg>

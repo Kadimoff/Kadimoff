@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="520" viewBox="0 0 1180 520" role="img" aria-label="Gadim Gadimov — AI &amp; Digital Technologies Specialist">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+ <stop offset="0" stop-color="#2DD4BF"><animate attributeName="stop-color" values="#2DD4BF;#38BDF8;#F59E0B;#2DD4BF" dur="9s" repeatCount="indefinite"/></stop>
+ <stop offset="1" stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#F59E0B;#2DD4BF;#38BDF8" dur="9s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.35"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1E2A44" stroke-width="1" opacity="0.55"/></pattern>
+<clipPath id="win"><rect x="1" y="1" width="1178" height="518" rx="16"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1178" height="518" rx="16" fill="#0B1220" stroke="#1E2A44"/>
+<g clip-path="url(#win)">
+<rect x="0" y="44" width="1180" height="476" fill="url(#grid)"/>
+<rect x="0" y="0" width="1180" height="44" fill="#0F1A2E"/><line x1="0" y1="44" x2="1180" y2="44" stroke="#1E2A44"/>
+<circle cx="24" cy="22" r="6" fill="#FF5F57"/>
+<circle cx="44" cy="22" r="6" fill="#FEBC2E"/>
+<circle cx="64" cy="22" r="6" fill="#28C840"/>
+<text x="590.0" y="27" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">gadim@baku: ~/profile — zsh</text>
+<text x="44" y="112" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="50" font-weight="800" letter-spacing="-1" fill="url(#g)">Gadim Gadimov</text>
+<text x="46" y="150" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="19" fill="#E6EDF7" opacity="1"><tspan fill="#F59E0B">▸ </tspan>AI &amp; Digital Technologies Specialist<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.235;0.250;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="46" y="150" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="19" fill="#E6EDF7" opacity="0"><tspan fill="#F59E0B">▸ </tspan>Startup &amp; TTO Lead Specialist @ ASOIU<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.250;0.265;0.485;0.500;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="46" y="150" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="19" fill="#E6EDF7" opacity="0"><tspan fill="#F59E0B">▸ </tspan>AI / ML Mentor for startup teams<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.500;0.515;0.735;0.750;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="46" y="150" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="19" fill="#E6EDF7" opacity="0"><tspan fill="#F59E0B">▸ </tspan>Full-stack builder · Linux · Docker<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.750;0.765;0.985;1" dur="12s" repeatCount="indefinite"/></text>
+<clipPath id="ln0"><rect x="44" y="176" width="0" height="28"><animate attributeName="width" from="0" to="91" begin="0.40s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#ln0)"><text x="46" y="196" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16"><tspan fill="#2DD4BF" font-weight="700">$</tspan><tspan dx="10" fill="#E6EDF7">whoami</tspan></text></g>
+<clipPath id="ln1"><rect x="44" y="206" width="0" height="28"><animate attributeName="width" from="0" to="356" begin="0.95s" dur="0.6s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#ln1)"><text x="46" y="226" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16"><tspan fill="#55657F" font-weight="700">></tspan><tspan dx="10" fill="#8A9BB8">Gadim Gadimov — Baku, Azerbaijan</tspan></text></g>
+<clipPath id="ln2"><rect x="44" y="236" width="0" height="28"><animate attributeName="width" from="0" to="163" begin="1.50s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#ln2)"><text x="46" y="256" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16"><tspan fill="#2DD4BF" font-weight="700">$</tspan><tspan dx="10" fill="#E6EDF7">cat focus.txt</tspan></text></g>
+<clipPath id="ln3"><rect x="44" y="266" width="0" height="28"><animate attributeName="width" from="0" to="418" begin="2.05s" dur="0.6s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#ln3)"><text x="46" y="286" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16"><tspan fill="#55657F" font-weight="700">></tspan><tspan dx="10" fill="#8A9BB8">AI agents · LLM workflows · automation</tspan></text></g>
+<clipPath id="ln4"><rect x="44" y="296" width="0" height="28"><animate attributeName="width" from="0" to="438" begin="2.60s" dur="0.6s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#ln4)"><text x="46" y="316" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16"><tspan fill="#55657F" font-weight="700">></tspan><tspan dx="10" fill="#8A9BB8">startup MVPs · tech transfer · mentoring</tspan></text></g>
+<clipPath id="ln5"><rect x="44" y="326" width="0" height="28"><animate attributeName="width" from="0" to="132" begin="3.15s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#ln5)"><text x="46" y="346" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16"><tspan fill="#2DD4BF" font-weight="700">$</tspan><tspan dx="10" fill="#E6EDF7">ls ./stack</tspan></text></g>
+<clipPath id="ln6"><rect x="44" y="356" width="0" height="28"><animate attributeName="width" from="0" to="550" begin="3.70s" dur="0.6s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#ln6)"><text x="46" y="376" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16"><tspan fill="#55657F" font-weight="700">></tspan><tspan dx="10" fill="#8A9BB8">python  react  next.js  node  django  docker  linux</tspan></text></g>
+<text x="46" y="406" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#2DD4BF" font-weight="700" opacity="0">$<animate attributeName="opacity" begin="4.25s" dur="0.01s" to="1" fill="freeze"/></text>
+<rect x="64" y="391" width="10" height="19" fill="#2DD4BF" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.5;0.6" dur="1.1s" begin="4.25s" repeatCount="indefinite"/></rect>
+<circle cx="900" cy="240" r="170" fill="url(#glow)"/>
+<circle cx="900" cy="240" r="150" fill="none" stroke="#1E2A44" stroke-width="1.5" stroke-dasharray="4 7" opacity="0.35"><animateTransform attributeName="transform" type="rotate" from="0 900 240" to="360 900 240" dur="60s" repeatCount="indefinite"/></circle>
+<circle cx="900" cy="240" r="105" fill="none" stroke="#1E2A44" stroke-width="1.5" stroke-dasharray="4 7" opacity="0.5"><animateTransform attributeName="transform" type="rotate" from="0 900 240" to="360 900 240" dur="40s" repeatCount="indefinite"/></circle>
+<circle cx="900" cy="240" r="62" fill="none" stroke="#1E2A44" stroke-width="1.5" stroke-dasharray="4 7" opacity="0.6"><animateTransform attributeName="transform" type="rotate" from="0 900 240" to="360 900 240" dur="26s" repeatCount="indefinite"/></circle>
+<line x1="900" y1="240" x2="770" y2="170" stroke="#F59E0B" stroke-width="1.6" stroke-opacity="0.55" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.0s" repeatCount="indefinite"/></line>
+<line x1="900" y1="240" x2="1020" y2="150" stroke="#2DD4BF" stroke-width="1.6" stroke-opacity="0.55" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.3s" repeatCount="indefinite"/></line>
+<line x1="900" y1="240" x2="1040" y2="310" stroke="#38BDF8" stroke-width="1.6" stroke-opacity="0.55" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.6s" repeatCount="indefinite"/></line>
+<line x1="900" y1="240" x2="790" y2="335" stroke="#2DD4BF" stroke-width="1.6" stroke-opacity="0.55" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="2.9s" repeatCount="indefinite"/></line>
+<line x1="900" y1="240" x2="905" y2="90" stroke="#38BDF8" stroke-width="1.6" stroke-opacity="0.55" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="3.2s" repeatCount="indefinite"/></line>
+<line x1="900" y1="240" x2="890" y2="390" stroke="#F59E0B" stroke-width="1.6" stroke-opacity="0.55" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-36" dur="3.5s" repeatCount="indefinite"/></line>
+<circle cx="770" cy="170" r="7" fill="#F59E0B"><animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="770" cy="170" r="7" fill="none" stroke="#F59E0B" stroke-width="2"><animate attributeName="r" values="7;20" dur="2.6s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="756" y="175" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">idea</text>
+<circle cx="1020" cy="150" r="7" fill="#2DD4BF"><animate attributeName="r" values="6;9;6" dur="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1020" cy="150" r="7" fill="none" stroke="#2DD4BF" stroke-width="2"><animate attributeName="r" values="7;20" dur="2.6s" begin="0.45s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.6s" begin="0.45s" repeatCount="indefinite"/></circle>
+<text x="1034" y="155" text-anchor="start" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">AI</text>
+<circle cx="1040" cy="310" r="7" fill="#38BDF8"><animate attributeName="r" values="6;9;6" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="310" r="7" fill="none" stroke="#38BDF8" stroke-width="2"><animate attributeName="r" values="7;20" dur="2.6s" begin="0.90s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.6s" begin="0.90s" repeatCount="indefinite"/></circle>
+<text x="1054" y="315" text-anchor="start" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">MVP</text>
+<circle cx="790" cy="335" r="7" fill="#2DD4BF"><animate attributeName="r" values="6;9;6" dur="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="790" cy="335" r="7" fill="none" stroke="#2DD4BF" stroke-width="2"><animate attributeName="r" values="7;20" dur="2.6s" begin="1.35s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.6s" begin="1.35s" repeatCount="indefinite"/></circle>
+<text x="776" y="340" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">industry</text>
+<circle cx="905" cy="90" r="7" fill="#38BDF8"><animate attributeName="r" values="6;9;6" dur="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="90" r="7" fill="none" stroke="#38BDF8" stroke-width="2"><animate attributeName="r" values="7;20" dur="2.6s" begin="1.80s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.6s" begin="1.80s" repeatCount="indefinite"/></circle>
+<text x="919" y="95" text-anchor="start" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">research</text>
+<circle cx="890" cy="390" r="7" fill="#F59E0B"><animate attributeName="r" values="6;9;6" dur="4.4s" repeatCount="indefinite"/></circle>
+<circle cx="890" cy="390" r="7" fill="none" stroke="#F59E0B" stroke-width="2"><animate attributeName="r" values="7;20" dur="2.6s" begin="2.25s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0" dur="2.6s" begin="2.25s" repeatCount="indefinite"/></circle>
+<text x="876" y="395" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">market</text>
+<circle cx="900" cy="240" r="34" fill="#0F1A2E" stroke="url(#g)" stroke-width="3"/>
+<text x="900" y="247" text-anchor="middle" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="url(#g)">GG</text>
+<line x1="44" y1="436" x2="1136" y2="436" stroke="#1E2A44"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.60s" dur="0.6s" fill="freeze"/><text x="44.0" y="470" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="url(#g)">10+</text><text x="113.0" y="464" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">startup teams supported</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.85s" dur="0.6s" fill="freeze"/><text x="317.0" y="470" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="url(#g)">30+</text><text x="386.0" y="464" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">students mentored</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.10s" dur="0.6s" fill="freeze"/><text x="590.0" y="470" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="url(#g)">6</text><text x="625.0" y="464" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">mentor programs</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.35s" dur="0.6s" fill="freeze"/><text x="863.0" y="470" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="url(#g)">3</text><text x="898.0" y="464" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8A9BB8">languages: AZ · TR · EN</text></g>
+</g></svg>
