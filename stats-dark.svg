@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="210" viewBox="0 0 500 210" role="img" aria-label="GitHub stats">
+<rect x="0.5" y="0.5" width="499" height="209" rx="12" fill="#0B1220" stroke="#1E2A44"/>
+<text x="24" y="38" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#2DD4BF">GitHub Stats</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.5s" fill="freeze"/>
+<g transform="translate(24 57) scale(0.8)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h4v4H4zM10 4h4v4h-4zM16 4h4v4h-4zM4 10h4v4H4zM10 10h4v4h-4zM4 16h4v4H4z"/></g>
+<text x="52" y="72" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">Contributions (last year)</text>
+<text x="52" y="92" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#E6EDF7">109</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.5s" fill="freeze"/>
+<g transform="translate(262 57) scale(0.8)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM3 12h6M15 12h6"/></g>
+<text x="290" y="72" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">Commits (last year)</text>
+<text x="290" y="92" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#E6EDF7">90</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.5s" fill="freeze"/>
+<g transform="translate(24 103) scale(0.8)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h11l3 3v13H5zM9 4v6l2-1.5L13 10V4"/></g>
+<text x="52" y="118" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">Public repositories</text>
+<text x="52" y="138" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#E6EDF7">17</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.44999999999999996s" dur="0.5s" fill="freeze"/>
+<g transform="translate(262 103) scale(0.8)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3v12M6 15a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM18 21V9a3 3 0 0 0-3-3h-4M13 3l-2 3 2 3"/></g>
+<text x="290" y="118" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">Pull requests</text>
+<text x="290" y="138" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#E6EDF7">3</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.5s" fill="freeze"/>
+<g transform="translate(24 149) scale(0.8)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/></g>
+<text x="52" y="164" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">Stars earned</text>
+<text x="52" y="184" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#E6EDF7">0</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.5s" fill="freeze"/>
+<g transform="translate(262 149) scale(0.8)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM2 21v-1a6 6 0 0 1 12 0v1M17 11a3 3 0 1 0 0-6M22 21v-1a5 5 0 0 0-4-4.9"/></g>
+<text x="290" y="164" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">Followers</text>
+<text x="290" y="184" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#E6EDF7">2</text></g>
+</svg>

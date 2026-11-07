@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="210" viewBox="0 0 500 210" role="img" aria-label="Top languages">
+<defs><clipPath id="bar"><rect x="24" y="56" width="452" height="10" rx="5"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="499" height="209" rx="12" fill="#0B1220" stroke="#1E2A44"/>
+<text x="24" y="38" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#2DD4BF">Most Used Languages</text>
+<rect x="24" y="56" width="452" height="10" rx="5" fill="#14223A"/>
+<g clip-path="url(#bar)">
+<rect x="24.0" y="56" width="0" height="10" fill="#3178c6"><animate attributeName="width" from="0" to="221.7" dur="0.8s" fill="freeze"/></rect>
+<rect x="245.7" y="56" width="0" height="10" fill="#f1e05a"><animate attributeName="width" from="0" to="88.2" dur="0.8s" fill="freeze"/></rect>
+<rect x="333.9" y="56" width="0" height="10" fill="#A97BFF"><animate attributeName="width" from="0" to="37.4" dur="0.8s" fill="freeze"/></rect>
+<rect x="371.3" y="56" width="0" height="10" fill="#e34c26"><animate attributeName="width" from="0" to="35.3" dur="0.8s" fill="freeze"/></rect>
+<rect x="406.5" y="56" width="0" height="10" fill="#3572A5"><animate attributeName="width" from="0" to="34.5" dur="0.8s" fill="freeze"/></rect>
+<rect x="441.0" y="56" width="0" height="10" fill="#663399"><animate attributeName="width" from="0" to="25.6" dur="0.8s" fill="freeze"/></rect>
+<rect x="466.7" y="56" width="0" height="10" fill="#4F5D95"><animate attributeName="width" from="0" to="6.9" dur="0.8s" fill="freeze"/></rect>
+<rect x="473.6" y="56" width="0" height="10" fill="#00B4AB"><animate attributeName="width" from="0" to="2.4" dur="0.8s" fill="freeze"/></rect>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/>
+<circle cx="30" cy="93" r="6" fill="#3178c6"/>
+<text x="44" y="98" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF7">TypeScript</text>
+<text x="234" y="98" text-anchor="end" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">49.1%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.4s" fill="freeze"/>
+<circle cx="268" cy="93" r="6" fill="#f1e05a"/>
+<text x="282" y="98" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF7">JavaScript</text>
+<text x="472" y="98" text-anchor="end" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">19.5%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.4s" fill="freeze"/>
+<circle cx="30" cy="121" r="6" fill="#A97BFF"/>
+<text x="44" y="126" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF7">Kotlin</text>
+<text x="234" y="126" text-anchor="end" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">8.3%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.6000000000000001s" dur="0.4s" fill="freeze"/>
+<circle cx="268" cy="121" r="6" fill="#e34c26"/>
+<text x="282" y="126" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF7">HTML</text>
+<text x="472" y="126" text-anchor="end" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">7.8%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.4s" fill="freeze"/>
+<circle cx="30" cy="149" r="6" fill="#3572A5"/>
+<text x="44" y="154" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF7">Python</text>
+<text x="234" y="154" text-anchor="end" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">7.6%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.4s" fill="freeze"/>
+<circle cx="268" cy="149" r="6" fill="#663399"/>
+<text x="282" y="154" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF7">CSS</text>
+<text x="472" y="154" text-anchor="end" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">5.7%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.9000000000000001s" dur="0.4s" fill="freeze"/>
+<circle cx="30" cy="177" r="6" fill="#4F5D95"/>
+<text x="44" y="182" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF7">PHP</text>
+<text x="234" y="182" text-anchor="end" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">1.5%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.4s" fill="freeze"/>
+<circle cx="268" cy="177" r="6" fill="#00B4AB"/>
+<text x="282" y="182" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF7">Dart</text>
+<text x="472" y="182" text-anchor="end" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#8A9BB8">0.5%</text></g>
+</svg>
